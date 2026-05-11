@@ -2,9 +2,19 @@
 
 Open-source preamp for 25mm condenser capsules — JFET + balanced output powered by +48V phantom power.
 
+<p align="center">
+  <img src="img/mic-and-pcb-on-top.jpeg" width="600"/>
+</p>
+
 ## Mounting
 
 The PCB is designed to mount **directly on the capsule body** for compact assembly. This eliminates the need for external cables and reduces noise.
+
+<p align="center">
+  <img src="img/mic-and-pcb.jpeg" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="img/mic-assembled.jpeg" width="45%"/>
+</p>
 
 ### Cardioid Pattern
 
@@ -13,11 +23,29 @@ For a cardioid polar pattern, the backplate needs proper acoustic resistance. Th
 - **Resistance felt** or porous material behind the capsule
 - The number/diameter of holes determines the cardioid ratio
 
+## PCB
+
+<p align="center">
+  <img src="img/pcb-3d-bottom.png" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="img/pcb-3d-top.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="img/pcb-bottom.png" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="img/pcb-top.png" width="45%"/>
+</p>
+
 ## Circuit
 
 ```
 Mic Capsule → JFET (2SK660) → Complementary PNP Output (2SA1162×2) → Balanced XLR
 ```
+
+<p align="center">
+  <img src="Schematic.svg" width="700"/>
+</p>
 
 ### Schematic Details
 
