@@ -1092,7 +1092,7 @@
        font-size="15px"
        id="text1"
        transform="translate(1.553747,7.5745164)"
-       style="stroke-linecap:round;stroke-width:2.74789429;stroke-dasharray:none;stroke-linejoin:round;paint-order:stroke markers fill"><textPath
+       style="stroke-linecap:round;stroke-width:2.74789429;stroke-dasharray:none;stroke-linejoin:round;paint-order:markers stroke fill"><textPath
          href="#topArc"
          startOffset="50%"
          text-anchor="middle"
@@ -6696,7 +6696,7 @@
        font-size="8px"
        id="text350"
        transform="translate(0,1.1653102)"
-       style="stroke-linejoin:round;stroke-width:2.74789429;stroke-dasharray:none"><textPath
+       style="stroke-linejoin:round;stroke-width:2.74789429;stroke-dasharray:none;paint-order:markers stroke fill"><textPath
          href="#bottomArc"
          startOffset="50%"
          text-anchor="middle"
@@ -6704,10 +6704,10 @@
     <g
        transform="translate(4359.1405,3145.8717)"
        id="g353"
-       style="stroke-width:2.74789429;stroke-dasharray:none">
+       style="stroke-width:2.74789429;stroke-dasharray:none;paint-order:markers stroke fill">
       <g
          id="g354"
-         style="stroke-width:2.74789429;stroke-dasharray:none">
+         style="stroke-width:2.74789429;stroke-dasharray:none;paint-order:markers stroke fill">
         <text
            x="0.54957885"
            y="-5.4957938"
@@ -6716,7 +6716,7 @@
            text-anchor="middle"
            id="text353"
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-           style="stroke-width:2.74789429;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round">Open Hardware</text>
+           style="stroke-width:2.74789429;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill">Open Hardware</text>
       </g>
     </g>
   </g>
