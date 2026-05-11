@@ -1,7 +1,7 @@
 # DIY Condenser Microphone Preamplifier
 
 <p align="center">
-  <img src="img/logo.png" width="200"/>
+  <img src="img/logo.svg" width="200"/>
 </p>
 
 Open-source preamp for 25mm condenser capsules — JFET + balanced output powered by +48V phantom power.
